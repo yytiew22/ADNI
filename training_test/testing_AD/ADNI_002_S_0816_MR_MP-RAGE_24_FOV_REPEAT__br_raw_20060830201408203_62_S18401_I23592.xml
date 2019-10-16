@@ -1,0 +1,26 @@
+<annotation>
+	<folder>21-40</folder>
+	<filename>ADNI_002_S_0816_MR_MP-RAGE_24_FOV_REPEAT__br_raw_20060830201408203_62_S18401_I23592.png</filename>
+	<path>C:\Users\User\Desktop\windows_v1.8.0\ADNI_PNG_500_LBL\AD\21-40\ADNI_002_S_0816_MR_MP-RAGE_24_FOV_REPEAT__br_raw_20060830201408203_62_S18401_I23592.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>96</ymin>
+			<xmax>171</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+</annotation>

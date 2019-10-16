@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-20</folder>
+	<filename>ADNI_002_S_1261_MR_MP-RAGE__br_raw_20100225171356758_63_S80484_I166845.png</filename>
+	<path>C:\Users\User\Desktop\windows_v1.8.0\ADNI_PNG_500_LBL\NC\1-20\ADNI_002_S_1261_MR_MP-RAGE__br_raw_20100225171356758_63_S80484_I166845.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>94</ymin>
+			<xmax>153</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+</annotation>
